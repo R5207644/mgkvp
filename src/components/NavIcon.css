@@ -1,0 +1,10 @@
+#anchor {
+    border-radius: 50%;
+    height: 0.8rem;
+    width: 0.8rem;
+    margin-right: 0.5rem;
+}
+#anchor i {
+    border-radius: 50%;
+    margin-left: 0.5rem;
+}

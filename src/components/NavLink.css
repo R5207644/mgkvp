@@ -1,0 +1,22 @@
+* {
+    font-size: 0.90rem;
+}
+
+a {
+    height: 2rem;
+    color: white;
+    padding: 6px 15px 6px 0px;
+    text-decoration: none;
+}
+
+i {
+    margin-right: 3px;
+}
+
+input {
+    height: 1.2rem;
+    width: 12rem;
+    padding: 0.5rem 0.76rem;
+    margin-right: 6px;
+    background-color: white;
+}

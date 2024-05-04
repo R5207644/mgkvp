@@ -1,0 +1,28 @@
+.icons {
+    display: flex;
+    padding-left: 1rem;
+    display: flex;
+    align-items: center;
+    width: 11.668rem;
+    padding-right: 2.5rem;
+}
+
+.blue {
+    background-color: rgb(5, 117, 253);
+}
+
+.violet {
+    background-color: rgb(187, 49, 7);
+}
+
+.skyblue {
+    background-color: rgb(63, 137, 240);
+}
+
+.green {
+    background-color: rgb(10, 215, 10);
+}
+
+.lightred {
+    background-color: rgb(247, 49, 56);
+}

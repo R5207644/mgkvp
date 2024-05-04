@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    background-color: rgb(4, 4, 57);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.fa-magnifying-glass {
+    color: white;
+    margin-left: 0.75rem;
+    height: 0.75rem;
+}
