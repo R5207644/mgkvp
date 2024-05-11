@@ -1,0 +1,31 @@
+.QuoteSection {
+    background-color: white;
+    display: flex;
+    padding: 3rem 0;
+    height: 17.7rem;
+}
+.QuoteImage {
+    background-color: white;
+    width: 23rem;
+    margin-left: 7rem;
+}
+.QuoteImage img {
+    height: 250px;
+    width: 250px;
+}
+.QuoteText {
+    background-color: white;
+    width: 52rem;
+    display: flex;
+    flex-direction: column;
+    margin-left: 4rem;
+}
+.QuoteText p {
+    font-size: 22px;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+.QuoteText em {
+    font-size: 1.4rem;
+    margin-left: 75%;
+}

@@ -1,0 +1,13 @@
+.Corousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding-top: 0.15rem;
+    height: 36.375rem;
+    width: 100vw;
+}
+.Corousel img {
+    height: 100%;
+    width: 100%;
+}

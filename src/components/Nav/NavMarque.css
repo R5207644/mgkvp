@@ -1,0 +1,12 @@
+.NavMarque {
+    background-color: rgb(246, 207, 11);
+    height: 2rem;
+    width: 100%;
+    margin: 0 0 -0.5rem;
+    padding: 0.4rem 0 0;
+    border-radius: 0%;
+}
+.NavMarque a {
+    font-weight: 700;
+    font-size: 1rem;
+}
