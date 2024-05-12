@@ -1,0 +1,20 @@
+.Card {
+height: 12rem;
+width: 17.813rem;
+padding: 0 1rem;
+margin: 1rem 1rem;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: white;
+box-shadow: inset;
+}
+.Card i {
+    font-size: 4rem;
+    margin-bottom: 0.5rem;
+}
+.Card h4 {
+    font-size: 1.182rem;
+    margin-top: 0.5rem;
+}

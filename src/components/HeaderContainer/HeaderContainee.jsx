@@ -1,3 +1,4 @@
+import CardContainer from '../CardContainer.jsx';
 import Corousel from "../Corousel.jsx";
 import Header from "../Header.jsx";
 import Nav from "../Nav/Nav.jsx";
@@ -13,6 +14,7 @@ export default function HeaderContainee() {
         <Nav />
         <NavMarque />
         <Corousel />
+        <CardContainer />
         </>
     );
 }
