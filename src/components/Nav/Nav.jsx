@@ -1,8 +1,8 @@
 import { NavLink } from "../NavLink";
 import './Nav.css';
 
-let property = {fontSize: '1rem', fontWeight: '600'}
-let bgColors = {backgroundColor: "white", color: 'black', fontSize: '1rem', fontWeight: '600'}
+let property = {fontSize: '10px', fontWeight: '700'}
+let bgColors = {backgroundColor: "white", color: 'black', fontSize: '10px', fontWeight: '700'}
 export default function Nav() {
     return (
         <>
